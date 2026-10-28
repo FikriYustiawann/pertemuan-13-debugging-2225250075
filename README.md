@@ -7,8 +7,6 @@
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
-Mata Kuliah Algoritma dan Pemrograman - S1 Pendidikan Matematika FKIP Untirta (2026/2027 Ganjil)
-
 ## Kasus
 
 Program memproses data nilai mahasiswa dan memiliki tiga fungsi: `hitung_rata_rata`, `status`, dan `nilai_tertinggi`. Program berjalan tanpa `SyntaxError`, tetapi menghasilkan output yang salah. Versi awal ada di `kasus/kasus_04_praktik_awal.py`, versi perbaikan ada di `praktik/praktik_4_debugging.py`.
